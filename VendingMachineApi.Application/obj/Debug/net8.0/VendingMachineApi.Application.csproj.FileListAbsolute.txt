@@ -1,0 +1,15 @@
+I:\vending machine\VendingMachineApi.Application\bin\Debug\net8.0\VendingMachineApi.Application.deps.json
+I:\vending machine\VendingMachineApi.Application\bin\Debug\net8.0\VendingMachineApi.Application.dll
+I:\vending machine\VendingMachineApi.Application\bin\Debug\net8.0\VendingMachineApi.Application.pdb
+I:\vending machine\VendingMachineApi.Application\bin\Debug\net8.0\VendingMachineApi.Domain.dll
+I:\vending machine\VendingMachineApi.Application\bin\Debug\net8.0\VendingMachineApi.Domain.pdb
+I:\vending machine\VendingMachineApi.Application\obj\Debug\net8.0\VendingMachineApi.Application.csproj.AssemblyReference.cache
+I:\vending machine\VendingMachineApi.Application\obj\Debug\net8.0\VendingMachineApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+I:\vending machine\VendingMachineApi.Application\obj\Debug\net8.0\VendingMachineApi.Application.AssemblyInfoInputs.cache
+I:\vending machine\VendingMachineApi.Application\obj\Debug\net8.0\VendingMachineApi.Application.AssemblyInfo.cs
+I:\vending machine\VendingMachineApi.Application\obj\Debug\net8.0\VendingMachineApi.Application.csproj.CoreCompileInputs.cache
+I:\vending machine\VendingMachineApi.Application\obj\Debug\net8.0\VendingM.BAACC22D.Up2Date
+I:\vending machine\VendingMachineApi.Application\obj\Debug\net8.0\VendingMachineApi.Application.dll
+I:\vending machine\VendingMachineApi.Application\obj\Debug\net8.0\refint\VendingMachineApi.Application.dll
+I:\vending machine\VendingMachineApi.Application\obj\Debug\net8.0\VendingMachineApi.Application.pdb
+I:\vending machine\VendingMachineApi.Application\obj\Debug\net8.0\ref\VendingMachineApi.Application.dll

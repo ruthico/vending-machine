@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VendingMachineApi.Application/1.0.0": {
+        "dependencies": {
+          "VendingMachineApi.Domain": "1.0.0"
+        },
+        "runtime": {
+          "VendingMachineApi.Application.dll": {}
+        }
+      },
+      "VendingMachineApi.Domain/1.0.0": {
+        "runtime": {
+          "VendingMachineApi.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VendingMachineApi.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VendingMachineApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
