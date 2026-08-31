@@ -1,0 +1,26 @@
+C:\Users\ed1119\AppData\Local\Temp\VendingMachineApi.Tests\bin\Debug\net8.0\.msCoverageSourceRootsMapping_VendingMachineApi.Tests
+C:\Users\ed1119\AppData\Local\Temp\VendingMachineApi.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_VendingMachineApi.Tests
+C:\Users\ed1119\AppData\Local\Temp\VendingMachineApi.Tests\bin\Debug\net8.0\testhost.dll
+C:\Users\ed1119\AppData\Local\Temp\VendingMachineApi.Tests\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\ed1119\AppData\Local\Temp\VendingMachineApi.Tests\bin\Debug\net8.0\VendingMachineApi.deps.json
+C:\Users\ed1119\AppData\Local\Temp\VendingMachineApi.Tests\bin\Debug\net8.0\VendingMachineApi.runtimeconfig.json
+C:\Users\ed1119\AppData\Local\Temp\VendingMachineApi.Tests\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ed1119\AppData\Local\Temp\VendingMachineApi.Tests\bin\Debug\net8.0\appsettings.json
+C:\Users\ed1119\AppData\Local\Temp\VendingMachineApi.Tests\bin\Debug\net8.0\VendingMachineApi.staticwebassets.endpoints.json
+C:\Users\ed1119\AppData\Local\Temp\VendingMachineApi.Tests\bin\Debug\net8.0\testhost.exe
+C:\Users\ed1119\AppData\Local\Temp\VendingMachineApi.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\ed1119\AppData\Local\Temp\VendingMachineApi.Tests\bin\Debug\net8.0\VendingMachineApi.Tests.deps.json
+C:\Users\ed1119\AppData\Local\Temp\VendingMachineApi.Tests\bin\Debug\net8.0\VendingMachineApi.Tests.runtimeconfig.json
+C:\Users\ed1119\AppData\Local\Temp\VendingMachineApi.Tests\bin\Debug\net8.0\VendingMachineApi.Tests.dll
+C:\Users\ed1119\AppData\Local\Temp\VendingMachineApi.Tests\bin\Debug\net8.0\VendingMachineApi.Tests.pdb
+I:\vending machine\VendingMachineApi.Tests\obj\Debug\net8.0\VendingMachineApi.Tests.csproj.AssemblyReference.cache
+I:\vending machine\VendingMachineApi.Tests\obj\Debug\net8.0\VendingMachineApi.Tests.GeneratedMSBuildEditorConfig.editorconfig
+I:\vending machine\VendingMachineApi.Tests\obj\Debug\net8.0\VendingMachineApi.Tests.AssemblyInfoInputs.cache
+I:\vending machine\VendingMachineApi.Tests\obj\Debug\net8.0\VendingMachineApi.Tests.AssemblyInfo.cs
+I:\vending machine\VendingMachineApi.Tests\obj\Debug\net8.0\VendingMachineApi.Tests.csproj.CoreCompileInputs.cache
+I:\vending machine\VendingMachineApi.Tests\obj\Debug\net8.0\VendingM.24C3ED45.Up2Date
+I:\vending machine\VendingMachineApi.Tests\obj\Debug\net8.0\VendingMachineApi.Tests.dll
+I:\vending machine\VendingMachineApi.Tests\obj\Debug\net8.0\refint\VendingMachineApi.Tests.dll
+I:\vending machine\VendingMachineApi.Tests\obj\Debug\net8.0\VendingMachineApi.Tests.pdb
+I:\vending machine\VendingMachineApi.Tests\obj\Debug\net8.0\VendingMachineApi.Tests.genruntimeconfig.cache
+I:\vending machine\VendingMachineApi.Tests\obj\Debug\net8.0\ref\VendingMachineApi.Tests.dll
