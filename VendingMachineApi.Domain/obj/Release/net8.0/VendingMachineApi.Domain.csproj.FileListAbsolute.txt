@@ -1,0 +1,11 @@
+I:\vending machine\VendingMachineApi.Domain\bin\Release\net8.0\VendingMachineApi.Domain.deps.json
+I:\vending machine\VendingMachineApi.Domain\bin\Release\net8.0\VendingMachineApi.Domain.dll
+I:\vending machine\VendingMachineApi.Domain\bin\Release\net8.0\VendingMachineApi.Domain.pdb
+I:\vending machine\VendingMachineApi.Domain\obj\Release\net8.0\VendingMachineApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+I:\vending machine\VendingMachineApi.Domain\obj\Release\net8.0\VendingMachineApi.Domain.AssemblyInfoInputs.cache
+I:\vending machine\VendingMachineApi.Domain\obj\Release\net8.0\VendingMachineApi.Domain.AssemblyInfo.cs
+I:\vending machine\VendingMachineApi.Domain\obj\Release\net8.0\VendingMachineApi.Domain.csproj.CoreCompileInputs.cache
+I:\vending machine\VendingMachineApi.Domain\obj\Release\net8.0\VendingMachineApi.Domain.dll
+I:\vending machine\VendingMachineApi.Domain\obj\Release\net8.0\refint\VendingMachineApi.Domain.dll
+I:\vending machine\VendingMachineApi.Domain\obj\Release\net8.0\VendingMachineApi.Domain.pdb
+I:\vending machine\VendingMachineApi.Domain\obj\Release\net8.0\ref\VendingMachineApi.Domain.dll
